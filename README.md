@@ -1,7 +1,7 @@
-# Restful API CRUD Manajemen Inventory
+# Restful API CRUD Sistem Pendaftaran Kursus Online
 
 ## Deskripsi
-Project Assignment 4 Phincon Academy adalah aplikasi Node.js menggunakan Express.js dan Sequelize ORM. Ini menyediakan API RESTful untuk manajemen CRUD inventarory, memungkinkan Anda untuk membuat, membaca, memperbarui, dan menghapus item inventaris. Aplikasi ini dirancang untuk bekerja dengan Navicat untuk manajemen basis data dan Postman untuk pengujian API.
+Project Assignment 4 Phincon Academy adalah aplikasi Node.js menggunakan Express.js dan Sequelize ORM. Ini menyediakan API RESTful untuk sistem pendaftaran kursus online, memungkinkan Anda untuk membuat, membaca, memperbarui, dan menghapus item inventaris. Aplikasi ini dirancang untuk bekerja dengan Navicat untuk manajemen basis data dan Postman untuk pengujian API.
 
 ## Struktur Proyek
 ```bash
