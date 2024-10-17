@@ -31,7 +31,8 @@ Assignment_4/
 └── server.js                # File server utama
 ```
 
-**##Instalasi**
+**Instalasi**
+
 Clone repository:
 ```
 git clone https://github.com/rantidhanty/Assignment4_RamadhantySadewi
@@ -42,7 +43,8 @@ Install dependensi
 npm install
 ```
 
-**##Penggunaan**
+**Penggunaan**
+
 Jalankan migrasi basis data:
 ```npx sequelize-cli db:migrate```
 
@@ -57,7 +59,7 @@ Mulai server:
 
 Server akan berjalan di http://localhost:5000
 
-**##Endpoints**
+**Endpoints**
 ```
 POST /users - Menambahkan pengguna baru
 POST /courses - Menambahkan kursus baru
@@ -78,7 +80,7 @@ PATCH /softdeletecourse/:id - Soft delete kursus berdasarkan ID
 PATCH /softdeleteschedule/:id - Soft delete jadwal berdasarkan ID
 ```
 
-**##Teknologi yang Digunakan**
+**Teknologi yang Digunakan**
 ```
 Node.js
 Express.js
